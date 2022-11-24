@@ -1,0 +1,35 @@
+[
+ {
+  "fid": 1,
+  "Type": "AB",
+  "s_lng": 98.9026,
+  "s_lat": 17.91867,
+  "t_lng": 99.337375,
+  "t_lat": 18.2926485,
+  "size": 2,
+  "s_color": "scolorAB",
+  "t.color": "tcolorAB"
+ },
+ {
+  "fid": 2,
+  "Type": "AB",
+  "s_lng": 98.9026,
+  "s_lat": 17.91867,
+  "t_lng": 99.337375,
+  "t_lat": 18.2926485,
+  "size": 2,
+  "s_color": "scolorAB",
+  "t.color": "tcolorAB"
+ },
+ {
+  "fid": 3,
+  "Type": "AB",
+  "s_lng": 98.9026,
+  "s_lat": 17.91867,
+  "t_lng": 99.337375,
+  "t_lat": 18.2926485,
+  "size": 2,
+  "s_color": "scolorAB",
+  "t.color": "tcolorAB"
+ }
+]

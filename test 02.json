@@ -20,8 +20,8 @@
   "t_lng": 99.337375,
   "t_lat": 18.2926485,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 3,
@@ -32,8 +32,8 @@
   "t_lng": 99.337375,
   "t_lat": 18.2926485,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 4,
@@ -44,8 +44,8 @@
   "t_lng": 99.337375,
   "t_lat": 18.2926485,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 5,
@@ -56,8 +56,8 @@
   "t_lng": 99.337375,
   "t_lat": 18.2926485,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 6,
@@ -68,8 +68,8 @@
   "t_lng": 99.337375,
   "t_lat": 18.2926485,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 7,
@@ -80,8 +80,8 @@
   "t_lng": 100.357562090111,
   "t_lat": 17.63976635,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 8,
@@ -92,8 +92,8 @@
   "t_lng": 100.357562090111,
   "t_lat": 17.63976635,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 9,
@@ -104,8 +104,8 @@
   "t_lng": 100.11238792,
   "t_lat": 17.5861839,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 10,
@@ -116,8 +116,8 @@
   "t_lng": 100.11238792,
   "t_lat": 17.5861839,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 11,
@@ -128,8 +128,8 @@
   "t_lng": 100.11238792,
   "t_lat": 17.5861839,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 12,
@@ -140,8 +140,8 @@
   "t_lng": 101.38505,
   "t_lat": 14.054725,
   "size": 4,
-  "s_color": "colorB",
-  "t.color": "colorC"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 13,
@@ -152,8 +152,8 @@
   "t_lng": 101.38505,
   "t_lat": 14.054725,
   "size": 4,
-  "s_color": "colorB",
-  "t.color": "colorC"
+  "s_color": [166, 250, 25],
+  "t_color": [0, 250, 156]
  },
  {
   "fid": 14,
@@ -164,8 +164,8 @@
   "t_lng": 101.38505,
   "t_lat": 14.054725,
   "size": 4,
-  "s_color": "colorB",
-  "t.color": "colorC"
+  "s_color": [166, 250, 25],
+  "t_color": [0, 250, 156]
  },
  {
   "fid": 15,
@@ -176,8 +176,8 @@
   "t_lng": 100.669051253982,
   "t_lat": 13.6562793426678,
   "size": 3,
-  "s_color": "colorC",
-  "t.color": "colorD"
+  "s_color": [0, 250, 156],
+  "t_color": [250, 12, 107]
  },
  {
   "fid": 16,
@@ -188,8 +188,8 @@
   "t_lng": 98.2964484677728,
   "t_lat": 8.172962162,
   "size": 3,
-  "s_color": "colorC",
-  "t.color": "colorD"
+  "s_color": [0, 250, 156],
+  "t_color": [250, 12, 107]
  },
  {
   "fid": 16,
@@ -200,7 +200,7 @@
   "t_lng": 99.0038105409082,
   "t_lat": 18.7816562918,
   "size": 3,
-  "s_color": "colorC",
-  "t.color": "colorD"
+  "s_color": [0, 250, 156],
+  "t_color": [250, 12, 107]
  }
 ]

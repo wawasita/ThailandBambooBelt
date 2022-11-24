@@ -8,8 +8,8 @@
   "t_lng": 99.337375,
   "t_lat": 18.2926485,
   "size": 2,
-  "s_color": "colorA",
-  "t.color": "colorB"
+  "s_color": [119, 173, 26],
+  "t_color": [166, 250, 25]
  },
  {
   "fid": 2,
